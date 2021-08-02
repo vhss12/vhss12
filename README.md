@@ -1,9 +1,8 @@
 ### Olá! Eu sou Victor Hugo
 
-## Sobre mim
 <li> 💻 Cursando faculdade de Ciência da computação </li>
 <li> 🧠 Aprendendo as linguagens JavaScript/HTML5/CSS3 </li>
-<li> 😄 Pronouns: ele/dele </li>
+<li> 😄 Pronome: ele/dele </li>
 
 ##
 
